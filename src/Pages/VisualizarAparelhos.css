@@ -1,0 +1,22 @@
+h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .visualizar-aparelho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .visualizar-aparelho img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .visualizar-aparelho p {
+    font-size: 18px;
+    color: #333;
+  }
+  
