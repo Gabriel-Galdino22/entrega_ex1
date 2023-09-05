@@ -1,0 +1,24 @@
+h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .lista-aparelhos {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .lista-aparelhos li {
+    margin-bottom: 20px;
+  }
+  
+  .lista-aparelhos img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .lista-aparelhos h2 {
+    font-size: 20px;
+    color: #333;
+  }
+  
