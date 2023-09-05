@@ -1,10 +1,10 @@
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import Aparelhos from './pages/Aparelhos';
-import VisualizarAparelho from './pages/VisualizarAparelho';
-import NotFound from './pages/NotFound';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
+import Home from '../Pages/Home';
+import Aparelhos from '../Pages/Aparelhos';
+import VisualizarAparelho from './Pages/VisualizarAparelho';
+import NotFound from '../Pages/notfound';
 
 function App() {
   return (
