@@ -1,0 +1,21 @@
+h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .promocoes {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .promocao {
+    width: 45%;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .promocao img {
+    max-width: 100%;
+    height: auto;
+  }
+  
